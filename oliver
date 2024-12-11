@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oliver</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>
+        About Oliver
+    </h1>
+
+    <img style="margin: 90px 0 0 490px;" id=cat1 class="odd" src="images/cat 1.jpeg" >
+
+    <h2>
+        Hobbies
+    </h2>
+
+    <p>
+        Climbing trees,
+        Exploring the outdoors,
+        Chasing butterflies and birds (mostly imaginary)
+    </p>
+
+    <h2>
+        Likes
+    </h2>
+
+    <p>
+        Fresh air and sunshine,
+        Scratching posts,
+        Tuna treats
+    </p>
+
+    <h2>
+        Dislikes
+    </h2>
+
+    <p>Being indoors for too long,
+        Vacuums and loud noises,
+        Sharing food with other cats
+        </p>
+        
+
+    <h2>
+        Stats
+    </h2>
+
+    <p>
+        Weight: 12 lbs,
+        Height: 10 inches at the shoulder,
+    </p>
+
+<a href="index.html" target="_parent">
+    <button>Back</button>
+</a>
+</body>
+</html>
