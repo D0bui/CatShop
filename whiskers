@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whiskers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>
+        About Whiskers
+    </h1>
+
+    <img style="margin: 90px 0 0 490px;" id=cat3 class="odd" src="images/cat 3.jpeg" >
+
+    <h2>
+        Hobbies
+    </h2>
+
+    <p>
+        Playing with anything that moves (especially shoelaces),
+Getting into trouble (knocking over things, etc.),
+Sneaking into bags and boxes
+    </p>
+
+    <h2>
+        Likes
+    </h2>
+
+    <p>
+        Laser pointers,
+        High places to observe from,
+        Stealing socks
+    </p>
+
+    <h2>
+        Dislikes
+    </h2>
+
+    <p>
+        Being ignored when trying to get attention,
+The vacuum,
+Other pets trying to outsmart her
+
+    <h2>
+        Stats
+    </h2>
+
+    <p>
+        Weight: 10 lbs,
+Height: 11 inches at the shoulder
+
+    </p>
+
+
+    <a href="index.html" target="_parent">
+        <button>Back</button>
+    </a>
+
+</body>
+</html>
