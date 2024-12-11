@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simba</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>
+        About Simba
+    </h1>
+
+    <img style="margin: 90px 0 0 490px;" id=cat5 class="odd" src="images/cat 5.jpeg" >
+
+    <h2>
+        Hobbies
+    </h2>
+
+    <p>
+        Lounging on high surfaces,
+Grooming (he’s very meticulous),
+Watching the world go by from windows
+    </p>
+
+    <h2>
+        Likes
+    </h2>
+
+    <p>
+        Being pampered with treats and affection,
+        Fancy collars,
+        Chasing after shiny objects (particularly anything that rolls)
+        
+    </p>
+
+    <h2>
+        Dislikes
+    </h2>
+
+    <p>
+        Other cats trying to take his throne,
+Being ignored when he demands attention,
+Having his tail pulled
+    </p>
+
+    <h2>
+        Stats
+    </h2>
+
+    <p>
+        Weight: 15 lbs,
+        Height: 14 inches at the shoulder
+    </p>
+
+    <a href="index.html" target="_parent">
+        <button>Back</button>
+    </a>
+
+</body>
+</html>
