@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mittens</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>
+        About Mittens
+    </h1>
+
+    <img style="margin: 90px 0 0 490px;" id=cat2 class="odd" src="images/cat 2.jpeg" >
+
+    <h2>
+        Hobbies
+    </h2>
+
+    <p>
+        Sleeping in sunny spots,
+Watching birds through windows,
+Knocking things off countertops
+    </p>
+
+    <h2>
+        Likes
+    </h2>
+
+    <p>
+        Soft blankets,
+Warm laps,
+Catnip toys
+    </p>
+
+    <h2>
+        Dislikes
+    </h2>
+
+    <p>
+        Being disturbed while napping,
+Water (especially getting wet),
+Loud, sudden noises
+    </p>
+
+    <h2>
+        Stats
+    </h2>
+
+    <p>
+        Weight: 9 lbs,
+Height: 9 inches at the shoulder
+    </p>
+
+
+    <a href="index.html" target="_parent">
+        <button>Back</button>
+    </a>
+
+</body>
+</html>
